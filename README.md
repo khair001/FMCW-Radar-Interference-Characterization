@@ -1,4 +1,4 @@
-# Thesis_Radar — Mutual Interference Characterization Using IWR6843AOP mmWave Radar
+# Research_Project — Mutual Interference Characterization Using IWR6843AOP mmWave Radar
 
 This repository contains the MATLAB code, experimental datasets, and documentation for my Master's thesis project on **mutual interference analysis** in mmWave FMCW radar systems using **Texas Instruments IWR6843AOP**.
 
