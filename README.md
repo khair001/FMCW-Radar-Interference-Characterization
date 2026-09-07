@@ -1,6 +1,6 @@
 # FMCW Radar Interference Characterization
 
-This repository contains the MATLAB code, experimental data, analysis results, and project report from a pre-thesis research project conducted as part of the M.Sc. Embedded Systems Engineering program at FH Dortmund – University of Applied Sciences and Arts.
+This repository contains the MATLAB code, experimental data, analysis results, and project report from a pre-thesis research project conducted as part of the M.Eng. Embedded Systems Engineering program at FH Dortmund – University of Applied Sciences and Arts.
 
 The project investigates **mutual interference (MI) in FMCW mmWave radar systems** using two Texas Instruments **IWR6843AOP EVM** radar sensors. The work focuses on experimentally characterizing how interference affects radar detections, signal quality, clustering behavior, and velocity coherence.
 
@@ -161,3 +161,9 @@ FMCW-Radar-Interference-Characterization/
 │   └── Radar_Interference_Experiments...
 │
 └── README.md
+
+## Author
+
+**Md Abul Khair**  
+M.Eng. Embedded Systems Engineering  
+FH Dortmund – University of Applied Sciences and Arts
